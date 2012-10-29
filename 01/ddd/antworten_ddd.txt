@@ -1,0 +1,30 @@
+E1.2
+----
+a) 10 Byte
+b) Ja
+
+
+E1.3
+----
+a) Ja, das System ist Little Endian
+b) d[0]
+
+E1.4
+----
+u: 0x804a090
+w: 0x804a098
+x: 0x804a09c
+
+
+E1.5
+----
+a)
+a: 4
+x: 12
+s: 4
+*s: 1
+"Hallo Welt!": 12
+
+b) In *s steht nur der 1. char des Strings
+
+c) Terminierungszeichen \0
